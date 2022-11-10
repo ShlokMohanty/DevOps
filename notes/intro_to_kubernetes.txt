@@ -1,0 +1,26 @@
+what is kubernetes?
+what are containers?
+what is configuration management ?
+what is infrastructure as a code?
+what are package managers?
+what are monolithic applications?
+what are microservices?
+what re services meshes?
+why to use Docker?
+what are the orchastrators?
+difference between cloud computing and cloud native applications?
+what are load balancing services?
+what is a container runtime interface ?
+what is a kubernetes cluster?
+what is a control plane or a master node?
+what is a worker node ?
+what is a declarative and imperative way 
+what are the kubernetes objects?
+what is a kubernetes POD?
+what are controllers in kubernetes ?
+deployment controller
+what is an etcd?
+what is a controller manager?
+what is a scheduler?
+what is a kube proxy ?
+what is a kubelet and container runtime?
